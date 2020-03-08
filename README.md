@@ -1,4 +1,6 @@
-# vuetify-vuex-aws-cognito
+# vuetify-vuex-aws-cognito-starter
+
+A Vuetify Starter with Vuex and AWS Cognito
 
 ## Project setup
 ```
