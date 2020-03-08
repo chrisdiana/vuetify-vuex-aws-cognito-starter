@@ -27,5 +27,10 @@ npm run test:unit
 npm run lint
 ```
 
+### Deploy to a S3 bucket endpoint
+```
+npm run deploy
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

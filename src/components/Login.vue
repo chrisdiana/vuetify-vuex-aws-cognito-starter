@@ -76,7 +76,7 @@ import { mapActions, mapMutations, mapState } from 'vuex';
 import ResetPassword from '@/components/ResetPassword';
 import ResetPasswordCode from '@/components/ResetPasswordCode';
 import { defaultRoute } from '@/router';
-import { validEmail } from '@/plugins/utils';
+import { validEmail } from '@/modules/utils';
 
 
 export default {
